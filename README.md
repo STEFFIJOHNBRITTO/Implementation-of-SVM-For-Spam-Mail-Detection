@@ -13,6 +13,10 @@ To write a program to implement the SVM For Spam Mail Detection.
 4. Predict spam/ham messages, calculate accuracy score, and generate the classification report.
 
 ## Program:
+```
+Name: STEFFI J
+Reg no : 212224220107
+```
 
 ```
 import pandas as pd
